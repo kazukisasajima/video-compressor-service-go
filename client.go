@@ -156,7 +156,7 @@ func getInput(prompt string) string {
 }
 
 func selectOperation() int {
-	fmt.Println("Please enter a number from 1 to 5:")
+	fmt.Println("Please enter a number from 1 to 6:")
 	fmt.Println("1 : Compress the video file")
 	fmt.Println("2 : Change the resolution of the video")
 	fmt.Println("3 : Change the aspect ratio of the video")
